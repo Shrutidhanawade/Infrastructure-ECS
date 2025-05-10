@@ -33,7 +33,7 @@ Deployment Instructions
 1. Clone the Repository
 Clone the repository to your local machine:
 
-git clone https://github.com/yourusername/ecs-deployment-infrastructure.git
+git clone https://github.com/Shrutidhanawade/Infrastructure-ECS.git
 cd ecs-deployment-infrastructure
 2. Configure the Container Image
 Update the container_image variable in terraform.tfvars to the image you wish to deploy. Example:
